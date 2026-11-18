@@ -40,7 +40,7 @@ The resources use components linked to the **version 3.8.0** of the UI Kit Itali
 **Note for the free Figma accounts:**
 With a free Figma account it's not possible to link a library.
 
-**How to contribute**
+# How to contribute
 If you want to report a problem or make an improvement request, open an [issue](https://github.com/italia/design-it-wallet-ux-resources/issues) properly using the [labels](https://github.com/italia/design-it-wallet-ux-resources/labels) depending on the type of report.
 
 If you want to contribute with improvements or problem corrections, open a [pull request](https://github.com/italia/design-it-wallet-ux-resources/pulls) properly using the [labels](https://github.com/italia/design-it-wallet-ux-resources/labels) correctly depending on the type of contribution.
