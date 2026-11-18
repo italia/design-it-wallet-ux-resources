@@ -23,7 +23,7 @@ jobs:
       - uses: italia/figma-to-sketch-action@v1.0.0 # https://github.com/italia/figma-to-sketch-action
         with:
           files: 'IT-Wallet-authentication.fig|IT-Wallet-credential-offer.fig' # File di input .fig (Figma) separati da `|`
-          output_files: 'IT-Wallet-authentication.sketch|IT-Wallet-credential-offer.fig' # File di output .sketch (Sketch) risultanti separati da `|`
+          output_files: 'IT-Wallet-authentication.sketch|IT-Wallet-credential-offer.sketch' # File di output .sketch (Sketch) risultanti separati da `|`
       - uses: ncipollo/release-action@v1
         with:
           artifacts: '*.fig,*.sketch'
