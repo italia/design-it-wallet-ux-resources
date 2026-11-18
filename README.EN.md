@@ -6,7 +6,7 @@ _🇮🇹 [Italian version](README.md)_
 
 ## Description
 
-This repository contains the **UX resources** necessary to integrate in your services the IT-Wallet authentication flow and/or the issuance of an attestation from a touchpoint of the relying party (“Credential offer”).
+This repository contains the **UX resources** necessary to integrate in your services the IT-Wallet authentication flow and/or the issuance of an attestation from a touchpoint of Authentic Source (“Credential offer”). More information on the IT-wallet system available at the official website [wallet.gov.it](https:\\wallet.gov.it).
 
 The following resources are made available:
 
@@ -15,7 +15,7 @@ The following resources are made available:
 | **`IT-Wallet-authentication`** | `Flusso ITA` | `Flusso ENG` |
 | **`IT-Wallet-credential-offer`** | `Flusso ITA` | `Flusso ENG` |
 
-The resources, available for both Figma and Sketch, provide a clear framework of how the IT-Wallet services should look like and how they should work, helping you maintain visual and functional consistency with the system and the Public Administration's standards.
+The resources, available for both Figma and Sketch, provide a clear framework of how the IT-Wallet services should look like and how they should work, helping you maintain visual and functional consistency with the [technical specification of the IT-Wallet system]([url](https://italia.github.io/eid-wallet-it-docs/releases/1.4.7/en/) and the [Design Guidelines for Public Administration Websites and Digital Services]([url](https://docs.italia.it/italia/design/lg-design-servizi-web/it/versione-corrente/index.html)).
 
 Please note: some features available in Figma (.fig) files may not be available and/or correct in .sketch files converted using the latest version of [fig2sketch](https://github.com/sketch-hq/fig2sketch). It is therefore recommended to always check the conversion result and declare the status of resources and this eventuality to users.
 
