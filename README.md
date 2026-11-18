@@ -15,7 +15,7 @@ Sono messe a disposizione le seguenti risorse:
 | **`IT-Wallet-authentication`** | `Flusso ITA` | `Flusso ENG` |
 | **`IT-Wallet-credential-offer`** | `Flusso ITA` | `Flusso ENG` |
 
-Le risorse, disponibili sia per Figma e Sketch, forniscono un quadro chiaro di come dovrebbero apparire e funzionare i due servizi per IT-Wallet, aiutando a mantenere una coerenza visiva e funzionale con le [specifiche tecniche del sistema]([url](https://italia.github.io/eid-wallet-it-docs/versione-corrente/it/index.html)) e le [linee guida di design per siti internet e i servizi digitali della PA]([url](https://italia.github.io/eid-wallet-it-docs/versione-corrente/it/index.html)). 
+Le risorse, disponibili sia per Figma e Sketch, forniscono un quadro chiaro di come dovrebbero apparire e funzionare i due servizi per IT-Wallet, aiutando a mantenere una coerenza visiva e funzionale con le [specifiche tecniche del sistema](https://italia.github.io/eid-wallet-it-docs/releases/1.4.7/en/) e le [linee guida di design per siti internet e i servizi digitali della PA](https://italia.github.io/eid-wallet-it-docs/releases/1.4.7/en/). 
 
 Attenzione: alcune funzionalità presenti nei file Figma (.fig) potrebbero non essere presenti e/o non corrette nei file .sketch convertiti utilizzando la versione più recente di [fig2sketch](https://github.com/sketch-hq/fig2sketch). È consigliato pertanto controllare sempre il risultato della conversione e dichiarare lo stato delle risorse e questa eventualità agli utenti.
 
