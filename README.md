@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/github/license/italia/design-ui-kit.svg)](https://github.com/italia/design-ui-kit/blob/main/LICENSE)
 
+_🇬🇧 [English version](README.EN.md)_
+
 ## Descrizione
 
 Questo repository contiene **le risorse UX** utili a integrare nei propri servizi il flusso di autenticazione con IT-Wallet e/o l'ottenimento di un attestato da un touchpoint della fonte autentica (“Credential offer”).
@@ -44,8 +46,6 @@ Con un account Figma gratuito, non è possibile collegare la libreria direttamen
 Se vuoi segnalare un problema o fare una richiesta di miglioria, apri un [issue](https://github.com/italia/design-it-wallet-ux-resources/issues) utilizzando correttamente le [labels](https://github.com/italia/design-it-wallet-ux-resources/labels) a seconda della tipologia di segnalazione.
 
 Se vuoi contribuire con migliorie o correzioni di problemi, apri una [pull request](https://github.com/italia/design-it-wallet-ux-resources/pulls) utilizzando correttamente le [labels](https://github.com/italia/design-it-wallet-ux-resources/labels) a seconda della tipologia di contributo.
-
-_🇬🇧 [English version](README.EN.md)_
 
 
 
