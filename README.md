@@ -25,11 +25,11 @@ Scarica l'ultima versione disponibile nella pagina [Releases](https://github.com
 
 Una volta scaricati, potrai aprire i file con i rispettivi programmi di progettazione e iniziare a esplorare le risorse.
 
-### Collegamento delle librerie (UI Kit) ai file in Figma
+### Collegamento della libreria (UI Kit) ai file in Figma
 
 Le risorse utilizzano componenti collegati alla **versione 3.8.0** di UI Kit Italia (`UI-Kit-Italia`), che include icone, tipografia, colori e ombre applicati.
 
-**Per collegare le librerie in Figma:**
+**Per collegare la libreria in Figma:**
 1. Assicurati di disporre di un **account Figma Pro** o superiore, necessario per pubblicare e collegare le librerie.
 2. Scarica le librerie `UI-Kit-Italia` e i file dei prototipi come descritto a inizio paragrafo. 
 3. Carica tutti i file nel tuo spazio di lavoro su Figma.
