@@ -38,6 +38,7 @@ The resources use components linked to the **version 3.8.0** of the UI Kit Itali
 
 
 **Note for the free Figma accounts:**
+
 With a free Figma account it's not possible to link a library.
 
 # How to contribute
