@@ -6,7 +6,7 @@ _🇬🇧 [English version](README.EN.md)_
 
 ## Descrizione
 
-Questo repository contiene **le risorse UX** utili a integrare nei propri servizi il flusso di autenticazione con IT-Wallet e/o l'ottenimento di un attestato da un touchpoint della fonte autentica (“Credential offer”).
+Questo repository contiene **le risorse UX** utili a integrare nei propri servizi il flusso di autenticazione con IT-Wallet e/o l'ottenimento di un attestato da un touchpoint del titolare di fonte autentica (“Credential offer”). Maggiori informazioni sul sistema IT-Wallet sono disponibili al sito ufficiale [wallet.gov.it](https:\\wallet.gov.it).
 
 Sono messe a disposizione le seguenti risorse:
 
